@@ -1,0 +1,35 @@
+.button,
+.button0 {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: var(--distance-1);
+    padding: var(--distance-2) var(--distance-4);
+
+    border-radius: 2px;
+    border: var(--border-1);
+    background-color: var(--color-2);
+
+    font-family: var(--ff-0);
+    font-size: var(--fs-3);
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.button1 {
+    padding: var(--distance-1) var(--distance-3);
+
+    font-family: var(--ff-1);
+    font-weight: 600;
+    font-size: var(--fs-2);
+
+    background: var(--gradient-0);
+
+    & svg {
+        height: 1.4rem;
+    }
+}
+
+.button2 {
+    background: transparent;
+}

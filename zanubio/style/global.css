@@ -1,0 +1,28 @@
+* {
+    color: var(--color-1);
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+
+    color: var(--color-1);
+    font-family: var(--ff-0);
+    font-size: var(--fs-3);
+
+    line-height: 150%;
+}
+
+a {
+    font-style: unset;
+    text-decoration: unset;
+}
+
+svg {
+    fill: var(--color-1);
+}

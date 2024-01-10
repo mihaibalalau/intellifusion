@@ -1,0 +1,130 @@
+@font-face {
+    font-family: Metropolis;
+    font-weight: 100;
+    font-display: swap;
+    src: url("../assets/fonts/metropolis/Metropolis-Thin.otf");
+}
+
+@font-face {
+    font-family: Metropolis;
+    font-weight: 200;
+    font-display: swap;
+    src: url("../assets/fonts/metropolis/Metropolis-ExtraLight.otf");
+}
+
+@font-face {
+    font-family: Metropolis;
+    font-weight: 300;
+    font-display: swap;
+    src: url("../assets/fonts/metropolis/Metropolis-Light.otf");
+}
+
+@font-face {
+    font-family: Metropolis;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../assets/fonts/metropolis/Metropolis-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metropolis;
+    font-weight: 500;
+    font-display: swap;
+    src: url("../assets/fonts/metropolis/Metropolis-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metropolis;
+    font-weight: 600;
+    font-display: swap;
+    src: url("../assets/fonts/metropolis/Metropolis-SemiBold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metropolis;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../assets/fonts/metropolis/Metropolis-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metropolis;
+    font-weight: 800;
+    font-display: swap;
+    src: url("../assets/fonts/metropolis/Metropolis-ExtraBold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metropolis;
+    font-weight: 900;
+    font-display: swap;
+    src: url("../assets/fonts/metropolis/Metropolis-Black.otf") format("opentype");
+}
+
+
+
+
+
+
+@font-face {
+    font-family: Inter;
+    font-weight: 100;
+    font-display: swap;
+    src: url("../assets/fonts/inter/Inter-Thin.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 200;
+    font-display: swap;
+    src: url("../assets/fonts/inter/Inter-ExtraLight.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 300;
+    font-display: swap;
+    src: url("../assets/fonts/inter/Inter-Light.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../assets/fonts/inter/Inter-Regular.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 500;
+    font-display: swap;
+    src: url("../assets/fonts/inter/Inter-Medium.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 600;
+    font-display: swap;
+    src: url("../assets/fonts/inter/Inter-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../assets/fonts/inter/Inter-Bold.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 800;
+    font-display: swap;
+    src: url("../assets/fonts/inter/Inter-ExtraBold.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 900;
+    font-display: swap;
+    src: url("../assets/fonts/inter/Inter-Black.ttf");
+}

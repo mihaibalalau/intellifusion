@@ -1,0 +1,21 @@
+.h1,
+.h2,
+.h3,
+.h4 {
+    color: var(--color-1);
+    font-family: var(--ff-1);
+    font-weight: 700;
+    line-height: 118%;
+}
+
+.h1 {
+    font-size: var(--fs-6);
+}
+
+.h2 {
+    font-size: var(--fs-5);
+}
+
+.h3 {
+    font-size: var(--fs-3);
+}

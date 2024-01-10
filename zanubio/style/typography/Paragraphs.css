@@ -1,0 +1,14 @@
+.p1 {
+    color: var(--color-1-300);
+    font-family: var(--ff-0);
+    font-size: var(--fs-1);
+    font-weight: 300;
+    line-height: 160%;
+}
+
+.p2 {
+    font-family: var(--ff-0);
+    font-size: var(--fs-2);
+    font-weight: 300;
+    line-height: 150%;
+}

@@ -1,0 +1,13 @@
+.button.main {
+    padding: var(--distance-1) var(--distance-3);
+
+    font-family: var(--ff-1);
+    font-weight: 600;
+    font-size: var(--fs-2);
+
+    background: var(--gradient-0);
+
+    & svg {
+        height: 1.4rem;
+    }
+}

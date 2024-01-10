@@ -1,0 +1,26 @@
+.card {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--distance-3);
+    padding: var(--distance-3);
+}
+
+.name {
+
+}
+
+.price {
+
+}
+
+.features {
+
+}
+
+
+
+.icon {
+    height: var(--distance-6);
+}

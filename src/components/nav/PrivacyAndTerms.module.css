@@ -1,0 +1,9 @@
+.list {
+    list-style: none;
+    padding: unset;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    text-decoration-line: underline;
+}

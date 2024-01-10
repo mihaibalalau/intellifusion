@@ -1,0 +1,11 @@
+.tabs {
+    display: flex;
+
+}
+
+.tab {
+
+    &.active {
+        background-color: var(--color-1-700);
+    }
+}

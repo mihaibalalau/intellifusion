@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 7.2rem;
+    align-items: center;
+    padding: 0 var(--distance-3);
+    border: var(--border-0);
+    border-width: 1px 0;
+    font-family: var(--ff-1);
+    font-weight: 400;
+    user-select: none;
+
+    position: relative;
+}
+
+.nav {
+    padding: var(--distance-3);
+    border-bottom: var(--border-0);
+    backdrop-filter: blur(1.5rem);
+
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: translateY(101%);
+}
+
+
+.auth {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: var(--distance-3);
+
+    margin-top: var(--distance-5);
+}

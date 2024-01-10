@@ -1,0 +1,7 @@
+.benefits {
+    gap: var(--distance-5);
+}
+
+.title {
+    margin-bottom: var(--distance-3);
+}

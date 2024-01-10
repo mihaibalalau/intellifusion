@@ -1,0 +1,10 @@
+body {
+    --image: url(/images/blurred-ellipse.png);
+    background-color: var(--color-0);
+    background-image: var(--image);
+    background-position: 80% 100%;
+    /* background-image: var(--image), var(--image), var(--image); */
+    /* background-position: -50% -50%, 0% 50%, -100% 0%; */
+    /* background-repeat: no-repeat; */
+    /* background-size: 0%; */
+}

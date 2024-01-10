@@ -1,0 +1,16 @@
+.title {
+    margin-top: var(--distance-7);
+}
+
+.text {
+    font-size: var(--fs-3);
+    margin-top: var(--distance-1);
+}
+
+.button {
+    margin-top: var(--distance-5);
+}
+
+.testimonials {
+    margin-top: var(--distance-3);
+}

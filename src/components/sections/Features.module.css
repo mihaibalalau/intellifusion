@@ -1,0 +1,11 @@
+.features {
+    display: flex;
+    align-items: flex-start;
+    flex-flow: column nowrap;
+    gap: var(--distance-3);
+    padding: var(--distance-5) var(--distance-3);
+}
+
+.title {
+    margin-bottom: var(--distance-3);
+}

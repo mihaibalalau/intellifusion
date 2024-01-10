@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: var(--distance-5);
+
+    padding: var(--distance-5) var(--distance-3);
+    border-top: var(--border-0);
+    border-width: 1px 0;
+    font-family: var(--ff-1);
+    font-weight: 400;
+}
+
+.terms {
+    padding-top: var(--distance-3);
+    border-top: var(--border-0);
+}
+
+.copyright {
+}
